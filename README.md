@@ -4,6 +4,7 @@ I build zero-upload, browser-memory-only developer utilities at **[NerdKit (glob
 
 #### Open-Source Zero-Dependency MIT Tools
 - **[nerdkit-mcp](https://github.com/JangYS0/nerdkit-mcp)** — Local Node.js `stdio` MCP server (`redact_har_secrets`, `analyze_postgres_explain`, `calculate_llm_vram`, `lint_mcp_config`) · [Browser MCP Inspector](https://global-utils.com/en/mcp-inspector)
+- **[openapi-zod-lint](https://github.com/JangYS0/openapi-zod-lint)** — OpenAPI 3.1 & LLM Structured Output strict JSON Schema linter CLI · [Browser OpenAPI Converter](https://global-utils.com/en/openapi-converter)
 - **[uuidv7-inspect](https://github.com/JangYS0/uuidv7-inspect)** — RFC 9562 UUIDv7 generator & 48-bit timestamp decoder CLI · [Browser UUID Generator](https://global-utils.com/en/uuid-generator)
 - **[redos-lint](https://github.com/JangYS0/redos-lint)** — Static CLI linter for catastrophic backtracking (ReDoS) regexes · [Browser Regex Visualizer](https://global-utils.com/en/regex-visualizer)
 - **[har-redact](https://github.com/JangYS0/har-redact)** — Strip Bearer tokens, cookies, query secrets, and GraphQL variables from Chrome `.har` exports · [Browser HAR Analyzer](https://global-utils.com/en/har-analyzer)
